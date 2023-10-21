@@ -1,2 +1,3 @@
 Olá mundo!
 olá, sou uma nova linha;
+mudança realizada na nova branch staging.
